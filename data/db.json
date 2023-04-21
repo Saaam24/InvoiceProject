@@ -1,0 +1,22 @@
+{
+    "invoices": [
+        {
+            "invoiceNumber": "001",
+            "contact": "Sam",
+            "amount": "123",
+            "id": "1"
+        },
+        {
+            "invoiceNumber": "002",
+            "contact": "Joe",
+            "amount": "1234",
+            "id": "2"
+        },
+        {
+            "invoiceNumber": "003",
+            "contact": "Mary",
+            "amount": "12345",
+            "id": "3"
+        }
+    ]
+}
